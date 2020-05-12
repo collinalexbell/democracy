@@ -34,3 +34,6 @@ A cryptocurrency wallet that holds the corporations financial resources. Modules
 Citizens of the corporation:
 - participate in democratic functions of the corporation. These include financial allocations, module acceptance, constitutional ammendment ratification, and citizenship control
 - recieve a UBI
+
+# Citizens
+- @kuberlog
