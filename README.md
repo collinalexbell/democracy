@@ -18,7 +18,7 @@ The constitution is a module of code that govern's vital resources of the corpor
 - Ratifies ammendments to the constitution through a Pull Request voting system for citizens
 - Grants wallet perimissions to other modules
 - Specifies how modules are added to the construct
-- Distributes Universal Basic Income to citizens (Technically a "Free Dividend". The constitution is for a corporation after all.)
+- Distributes a Freedom Dividend to all citizens
 
 ### Constructs
 A Construct is a computer system that runs the Constitution in such a way that the Democracy Repository can not be changed except through consitutionally approved means (PR voting by citizens). A Construct also contains private keys (for the crypto wallets and other resources) that only it has access too. 
