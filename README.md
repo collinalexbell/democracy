@@ -34,10 +34,3 @@ A cryptocurrency wallet that holds the corporations financial resources. Modules
 Citizens of the corporation:
 - participate in democratic functions of the corporation. These include financial allocations, module acceptance, constitutional ammendment ratification, and citizenship control
 - recieve a UBI
-
-### Revenue
-Citizens are responsible for generating revenue. These streams can be wholly owned by the corporation or they could be developed inside a subordinate corporation that uses the standard capitalist approach to distribute shares to contributors. The parent corporation controlled by the constitution would have claim on the shares of such a sub corporation.
-
-
-# Citizens
-- @kuberlog
