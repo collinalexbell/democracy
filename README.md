@@ -32,7 +32,7 @@ A cryptocurrency wallet that holds the corporations financial resources. Modules
 
 ### Citizenship
 Citizens of the corporation:
-- participate in democratic functions of the corporation. These include financial allocations, module acceptance, constitution ratification, and citizenship control
+- participate in democratic functions of the corporation. These include financial allocations, module acceptance, constitutional ammendment ratification, and citizenship control
 - recieve a UBI
 - work for the betterment of the corporation (can be paid bonuses for their work)
 
