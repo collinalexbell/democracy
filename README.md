@@ -6,6 +6,12 @@
 
 ## High level goals and concepts
 
+### The Corporation
+All assets are controlled by a democratically ran corporation with shares distributed evenly through citizenship. The corporate structure of the project allows it to run in subordination and cooperation of existing democratic authorities and jurisdictions.
+
+### Shares
+Every citizen of the corporation gets 1 share. However, subsidiaries of the corporation can have a more traditional ownership model where citizens are allocated shares based on how much they have contributed to the revenue stream.
+
 ### The Constitution
 The constitution is a module of code that govern's vital resources of the corporation. It does the following:
 - Controls citizenship of the corporation (naturalization, renuciation, and exile)
@@ -33,8 +39,6 @@ Citizens of the corporation:
 ### Revenue
 Citizens are responsible for generating revenue. These streams can be wholly owned by the corporation or they could be developed inside a subordinate corporation that uses the standard capitalist approach to distribute shares to contributors. The parent corporation controlled by the constitution would have claim on the shares of such a sub corporation.
 
-### Shares
-Every citizen of the corporation gets 1 share. However, subsidiaries of the corporation can have a more traditional ownership model where citizens are allocated shares based on how much they have contributed to the revenue stream.
 
 # Citizens
 - @kuberlog
