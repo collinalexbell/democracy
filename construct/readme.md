@@ -13,3 +13,7 @@ To create a new construct, an existing construct does the following:
 ## BitLaunch
 
 Bitlaunch allows a user to provision and pay for a VPS programatically. This means a construct can create an account, fund that account, and spin up a new construct, all without human intervention.
+
+## Bootstrapping
+
+The above flow requires an already existing construct. The first construct will need to be boostraped. I (@kuberlog) will bootstrap the first construct using my own email address, crypto wallet, etc. I expect to bootstrap at least the first 2 construct just to ensure that everything is working properly. I will consider the date that the first non-bootstraped construct goes live to be the official launch date for this project. Until then, this will probably be developed in stealth mode.
