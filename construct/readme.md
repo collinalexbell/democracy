@@ -4,7 +4,7 @@ All of the following assumes an already existing construct. It also assumes a 3r
 
 To create a new construct, an existing construct does the following:
 1. Uses BitLaunch to programatically launch a virtual private server
-2. Retrieves SSH key from bitlaunch, SSHs into the new server, generates an new SSH key, remove the old key from authorized list
+2. Retrieves SSH key from bitlaunch, SSHs into the new server, authorizes its own RSA key with the new server, removes BitLaunch generated key from authorized list
 3. Stores the server's new ssh credentials in the existing construct's secrets and then reboots the new server
 4. SSHs in and spins up a new construct
 5. SCP the construct key to the new construct. The construct could store the key in an HSM.
