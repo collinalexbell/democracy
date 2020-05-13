@@ -10,3 +10,7 @@ To create a new construct, an existing construct does the following:
 5. The construct now has access to all the encrypted secrets
 
 PS, I obviously am a noob w/ crypto. This is just a general outline.
+
+## BitLaunch
+
+Bitlaunch allows a user to provision and pay for a VPS programatically.
