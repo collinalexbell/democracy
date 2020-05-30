@@ -1,3 +1,5 @@
+"When a shareholder's only means of influencing corporate decision making at the level of day to day operations is to literally set fire to corporate assets, then you know a better decision system can be constructed" ~ My thoughts about the 2020 riots in the USA that burnt down a police precinct 
+
 # Democracy
  The system looks for pull requests on its own code and then merges those requests and reboots with the new code if the PRs recieve enough upvotes. 
  To add excitement, this system controls a cryptocurrency wallet I have funded. Successfully merged PRs will determine how this money is spent.
